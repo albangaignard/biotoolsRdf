@@ -18,3 +18,4 @@ CONSTRUCT {
 ```
 
 It results in the following graph: 
+![](network-contacts.png)
