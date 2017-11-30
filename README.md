@@ -3,7 +3,7 @@ RDF data generated from Bio.Tools
 
 Here is a sample query run on this dataset. It connects persons with "share the same interest" relation when the tools they are associated to are annoated with the same EDAM topic.
 
-```
+```SPARQL
 CONSTRUCT {
     ?a1 <share_same_interests_with> ?a2
 }  WHERE {
